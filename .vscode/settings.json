@@ -1,5 +1,6 @@
 {
   "editor.formatOnSave": true,
+<<<<<<< HEAD
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
@@ -59,3 +60,7 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false
 }
+=======
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+>>>>>>> 1406f5e509ea83ac589255a94965916e9e018652
